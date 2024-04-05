@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #3a2f20;
+    width: 670px;
+    margin: auto;
+    padding: 20px;
+}
+
+header{
+    background-color: #fff4e3;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+section{
+    background-color: #e6d5c1;
+    padding: 15px;
+}
+
+h1{
+    font-family:"Titan One", sans-serif;
+    text-align: center;
+
+    font-size: 2.5em;
+}
+
+h2{
+    font-family:"Indie Flower", cursive;
+    text-align: center;
+    font-size: 2em;
+    padding-top: 10px;
+}
+
+p{
+    font-family:"Indie Flower", cursive;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+li{
+    font-family:"Indie Flower", cursive;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+img{
+    padding-left: 35%;
+}
+
+footer{
+    background-color: #785d56;
+    font-weight: bold;
+    margin-top: 10px;
+}
